@@ -1,5 +1,5 @@
-# Game Genarator:
- * This project have the purpose generatoration games for lottery, in two modality(Mega-Sena and Loto-Fácil).
+# Game Generator:
+ * This project have the purpose generation games for lottery, in two modality(Mega-Sena and Loto-Fácil).
 
 ### Dependencies:
 ```
